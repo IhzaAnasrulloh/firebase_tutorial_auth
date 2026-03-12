@@ -47,6 +47,8 @@
 - Request Body RAW
 <img width="1189" height="240" alt="image" src="https://github.com/user-attachments/assets/1ec8f44a-b53c-4a77-85be-866e47dd9549" />
 
+- Add Script Auto Save Token
+<img width="1195" height="356" alt="image" src="https://github.com/user-attachments/assets/90087ae9-10e8-49d9-b068-1a983b4341e7" />
 
 
 
