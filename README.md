@@ -50,5 +50,21 @@
 - Add Script Auto Save Token
 <img width="1195" height="356" alt="image" src="https://github.com/user-attachments/assets/90087ae9-10e8-49d9-b068-1a983b4341e7" />
 
+- 200 Endpoints
+<img width="1083" height="311" alt="image" src="https://github.com/user-attachments/assets/bf58ea72-e792-4786-ac4d-af9f53e813fe" />
 
+**6. ADD VERIVICATION REQUEST**
+- Endpoint
+<img width="1188" height="156" alt="image" src="https://github.com/user-attachments/assets/537a9170-d31b-4b01-913f-480ff067d75b" />
 
+- Headers
+<img width="1174" height="291" alt="image" src="https://github.com/user-attachments/assets/1cf24084-93ce-4f65-9d3c-4047fc013c03" />
+
+- Request Body RAW
+<img width="450" height="160" alt="image" src="https://github.com/user-attachments/assets/5d773b41-f91e-4d94-b751-e801ad446863" />
+
+- Body jSON
+<img width="884" height="197" alt="image" src="https://github.com/user-attachments/assets/935a679d-4d62-497b-a870-1c61ffefcdb1" />
+
+**HASIL EMAIL VERIVICATION**
+<img width="1910" height="975" alt="image" src="https://github.com/user-attachments/assets/2bbc354d-9b46-478a-898f-cda7bb9202c4" />
