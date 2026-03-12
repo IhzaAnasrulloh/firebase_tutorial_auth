@@ -37,4 +37,16 @@
 
 <img width="1195" height="455" alt="image" src="https://github.com/user-attachments/assets/6a089b17-f28d-41d2-a92d-67745c55458f" />
 
+**5. Konfigurasi Request**
+- Endpoint
+<img width="1191" height="117" alt="image" src="https://github.com/user-attachments/assets/318ef474-589a-4af9-b58f-e1ff0cdc747b" />
+
+- Headers
+<img width="1190" height="220" alt="image" src="https://github.com/user-attachments/assets/8dc1298c-1e00-489c-858a-e296c9c0d97b" />
+
+- Request Body RAW
+<img width="1189" height="240" alt="image" src="https://github.com/user-attachments/assets/1ec8f44a-b53c-4a77-85be-866e47dd9549" />
+
+
+
 
